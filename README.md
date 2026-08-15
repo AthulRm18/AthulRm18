@@ -1,104 +1,37 @@
 # Athul R Mohan
 
-### CS Student • Machine Learning • Deep Learning • Software Engineering
+**ML Engineer & CS Student** — Building machine learning systems that solve real problems.
 
-I build AI/ML systems and data-driven applications, with a focus on
-solving real-world problems through machine learning and software engineering.
-
-<p align="center">
-  <a href="https://github.com/AthulRm18">
-    <img src="https://img.shields.io/badge/GitHub-AthulRm18-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Website-purple?style=for-the-badge">
-  </a>
-</p>
+Focused on semantic search, demand prediction, and ML infrastructure. Python, PyTorch.
 
 ---
 
-## 🚀 What I'm Working On
+## 🔬 Recent Work
 
-- 🧠 Machine Learning & Deep Learning
-- 🔬 AI systems and intelligent applications
-- ⚙️ Software engineering
-- 📊 Data-driven products
-- 🤖 Exploring LLMs, RAG and AI agents
+**[Search Re-Ranker](https://github.com/AthulRm18/search-reranker)** — ML ranking system improving search quality using semantic similarity and learning-to-rank  
+Live: https://search-reranker.vercel.app  
 
----
+**[Semantic CI Intelligence](https://github.com/AthulRm18/semantic-ci-intelligence)** — Predicting CI/CD pipeline failures by analyzing code diffs and workflow patterns. Applied research on reducing deployment friction.
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-Python • Java • C
-
-**Machine Learning**
-
-Scikit-learn • PyTorch • TensorFlow • Pandas • NumPy
-
-**AI**
-
-Transformers • RAG • Embeddings • LLMs
-
-**Backend / Tools**
-
-Git • GitHub • SQL • Spring Boot
+**[Hotel Booking Cancellation Prediction](https://github.com/AthulRm18/Hotel-Booking-Prediction)** — End-to-end ML project: EDA, feature engineering, model selection, and production-ready predictions using scikit-learn.
 
 ---
 
-## 🔥 Featured Projects
+## 🛠 Skills
 
-### Semantic CI Intelligence
-
-Predicting CI/CD failures by analyzing code changes and historical
-workflow behavior.
-
-### Search Re-Ranker
-
-ML-based ranking system that improves search results using semantic
-similarity and learning-to-rank techniques.
-
-### Surge Demand Intelligence
-
-Geospatial demand prediction using H3 hexagonal grids and machine learning.
+**ML/Data**: PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • Embeddings & Semantic Search  
+**Languages**: Python • Java • C  
+**Backend**: Spring Boot • SQL • Git  
+**Interests**: LLMs • RAG • Transformers • MLOps • Deployment
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AthulRm18&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AthulRm18&theme=dark" />
-</p>
+## Currently Exploring
+- Deep learning for real-world datasets
+- Building production ML pipelines
+- Semantic search and retrieval systems
+- RAG applications
 
 ---
 
-### Currently Learning
-
-`Deep Learning` `PyTorch` `Transformers` `LLMs` `RAG` `MLOps`
-
----
-
-<p align="center">
-  <i>Building things. Breaking things. Learning along the way.</i>
-</p>
-<!--
-**AthulRm18/AthulRm18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Portfolio](https://athul-portfolio-one.vercel.app)** • [LinkedIn](#) • [Email](#)
