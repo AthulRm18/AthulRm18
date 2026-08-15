@@ -1,37 +1,62 @@
+<div align="center">
+
 # Athul R Mohan
 
-**ML Engineer & CS Student** — Building machine learning systems that solve real problems.
+**Machine Learning Engineer** | Deep Learning Specialist | Building AI Systems at Scale
 
-Focused on semantic search, demand prediction, and ML infrastructure. Python, PyTorch.
+[![Profile Views](https://komarev.com/ghpvc/?username=AthulRm18&style=flat-square&color=0891b2)](https://github.com/AthulRm18)
 
----
-
-## 🔬 Recent Work
-
-**[Search Re-Ranker](https://github.com/AthulRm18/search-reranker)** — ML ranking system improving search quality using semantic similarity and learning-to-rank  
-Live: https://search-reranker.vercel.app  
-
-**[Semantic CI Intelligence](https://github.com/AthulRm18/semantic-ci-intelligence)** — Predicting CI/CD pipeline failures by analyzing code diffs and workflow patterns. Applied research on reducing deployment friction.
-
-**[Hotel Booking Cancellation Prediction](https://github.com/AthulRm18/Hotel-Booking-Prediction)** — End-to-end ML project: EDA, feature engineering, model selection, and production-ready predictions using scikit-learn.
+</div>
 
 ---
 
-## 🛠 Skills
+## About
 
-**ML/Data**: PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • Embeddings & Semantic Search  
-**Languages**: Python • Java • C  
-**Backend**: Spring Boot • SQL • Git  
-**Interests**: LLMs • RAG • Transformers • MLOps • Deployment
+ML engineer focused on semantic systems, embeddings, and production-grade machine learning infrastructure. Experienced in end-to-end model development—from data exploration and feature engineering to deployment and optimization.
 
----
-
-## Currently Exploring
-- Deep learning for real-world datasets
-- Building production ML pipelines
-- Semantic search and retrieval systems
-- RAG applications
+Currently exploring transformer architectures, retrieval-augmented generation, and scalable ML pipelines.
 
 ---
 
-**[Portfolio](https://athul-portfolio-one.vercel.app)** • [LinkedIn](#) • [Email](#)
+## <img src="https://media.giphy.com/media/iY8CRQ6zDrCxLsrai0/giphy.gif" width="25"> Featured Projects
+
+### [`Search Re-Ranker`](https://github.com/AthulRm18/search-reranker)
+Semantic ranking system leveraging transformer embeddings and learning-to-rank algorithms to improve search result relevance.  
+**Tech**: Python • PyTorch • Embeddings • Ranking  
+🔗 [Live Demo](https://search-reranker.vercel.app)
+
+### [`Semantic CI Intelligence`](https://github.com/AthulRm18/semantic-ci-intelligence)
+Predictive system for CI/CD pipeline failure detection through code diff analysis and historical workflow pattern recognition.  
+**Tech**: Python • ML • Pattern Analysis
+
+### [`Hotel Booking Cancellation Prediction`](https://github.com/AthulRm18/Hotel-Booking-Prediction)
+Classification model predicting booking cancellations with comprehensive feature engineering and model evaluation pipeline.  
+**Tech**: Python • Scikit-learn • Data Analysis
+
+---
+
+## <img src="https://media.giphy.com/media/TEnXkcsHrP4YzPioWY/giphy.gif" width="25"> Technical Stack
+
+**Machine Learning** • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy  
+**Languages** • Python • Java • C  
+**Infrastructure** • Spring Boot • SQL • Git  
+**Specializations** • Semantic Search • Embeddings • Transformers • Model Optimization
+
+---
+
+## <img src="https://media.giphy.com/media/W0rI6jFb4ysXzJVHsq/giphy.gif" width="25"> Current Focus
+
+- Transformer-based architectures and fine-tuning strategies
+- Retrieval-augmented generation (RAG) systems
+- Production ML pipelines and deployment
+- Scaling machine learning infrastructure
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+[**Portfolio**](https://athul-portfolio-one.vercel.app) • [**GitHub**](https://github.com/AthulRm18) • [**LinkedIn**](#)
+
+</div>
