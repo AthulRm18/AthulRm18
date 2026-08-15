@@ -12,7 +12,7 @@
 
 ## About
 
-ML engineer focused on semantic systems, embeddings, and production-grade machine learning infrastructure. Experienced in end-to-end model development—from data exploration and feature engineering to deployment and optimization.
+ML engineer focused on semantic systems, embeddings, and machine learning infrastructure. Experienced in end-to-end model development—from data exploration and feature engineering to deployment and optimization.
 
 Currently exploring transformer architectures, retrieval-augmented generation, and scalable ML pipelines.
 
