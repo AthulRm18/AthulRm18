@@ -4,7 +4,7 @@
 
 **Machine Learning Engineer** | Deep Learning Specialist | Building AI Systems at Scale
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AthulRm18&style=flat-square&color=0891b2)](https://github.com/AthulRm18)
+
 
 </div>
 
