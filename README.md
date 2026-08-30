@@ -42,18 +42,4 @@ I enjoy experimenting with retrieval, reranking, agentic workflows, and full-sta
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Currently Learning
-- LangChain
-- LangGraph
-- Agentic AI workflows
-- Better retrieval and ranking pipelines
 
-## Featured Projects
-- **airgrid** — Python-based AI project
-- **semantic-ci-intelligence** — semantic workflow / CI intelligence
-- **search-reranker** — retrieval and reranking focused project
-- **athul-portfolio** — personal portfolio site
-- **Hotel-Booking-Prediction** — machine learning prediction project
-
-## GitHub Stats
-<!-- add stats cards here -->
