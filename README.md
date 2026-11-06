@@ -1,12 +1,12 @@
 <table>
   <tr>
-    <td width="58%" valign="top">
+    <td width="50%" valign="top">
       <h2>Hi, I'm Athul 👋</h2>
       <p>Learning ML, LLMs and agents, and obsessing over one question: <strong>how do you know an AI system is actually any good?</strong></p>
       <p>Right now: <strong>agentic AI</strong> and <strong>LLM evals</strong>.</p>
       <p>🌍 Bengaluru, India<br />📬 <a href="mailto:athulrm518@gmail.com">athulrm518@gmail.com</a></p>
     </td>
-    <td width="42%" align="center" valign="middle">
+    <td width="50%" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/38b9a2bc-aa4b-4bca-b7a5-d27970862771" alt="Animated scene of a developer coding at a computer" width="100%" />
     </td>
   </tr>
