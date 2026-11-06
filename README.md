@@ -1,9 +1,9 @@
 <table>
   <tr>
     <td width="58%" valign="top">
-      <h2>Hey, I'm Athul 👋</h2>
-      <p>I like building ML systems that have to make a useful decision—not just produce a prediction. Lately, that's meant experimenting with pollution alerts, product search, and engine diagnostics.</p>
-      <p>I'm especially interested in ranking, retrieval, and figuring out how to evaluate whether a model actually helped.</p>
+      <h2>Hi, I'm Athul 👋</h2>
+      <p>I build ML systems that turn messy real-world data into something people can act on. Lately that's been search ranking, pollution hotspots, and machine failure prediction, usually all the way from the model to a working interface.</p>
+      <p>I'm most interested in retrieval and ranking, evaluating LLM systems properly, and agents you can actually measure.</p>
       <p>🌍 Bengaluru, India<br />📬 <a href="mailto:athulrm518@gmail.com">athulrm518@gmail.com</a></p>
     </td>
     <td width="42%" align="center" valign="middle">
@@ -12,14 +12,61 @@
   </tr>
 </table>
 
-## Things I've been building
+## Selected Work
 
-- **[AirGrid](https://github.com/AthulRm18/airgrid)** — A community air-pollution monitor that combines citizen reports, satellite observations, and sensor readings to find hotspots the official network can miss. [Try the demo](https://airgrid.onrender.com/).
-- **[Search Re-ranker](https://github.com/AthulRm18/search-reranker)** — A search experiment that balances product relevance with review-trust signals and sponsored-result penalties. It includes a ranking model, API, dashboard, and browser extension. [See the demo](https://search-reranker.vercel.app/).
-- **[Harmonix](https://github.com/AthulRm18/Harmonix)** — Exploring engine diagnostics by combining vibration, audio, ignition, and OBD-II data.
+- **[AirGrid](https://github.com/AthulRm18/airgrid)** · [Live demo](https://airgrid.onrender.com/): combines citizen reports, satellite data, and sensor readings to find pollution hotspots that official monitors miss, and forecasts where a plume will travel.
+- **[Search Re-Ranker](https://github.com/AthulRm18/search-reranker)** · [Live demo](https://search-reranker.vercel.app/): a LightGBM LambdaMART ranker that balances relevance, review trust, and sponsored-result penalties (NDCG@10 of 0.9114 on Amazon ESCI).
+- **[Ferron / Predictive Maintenance](https://github.com/AthulRm18/Predictive-Maintenance)** · [Live dashboard](https://ferron.vercel.app/): streams machine telemetry, predicts remaining useful life and faults, and explains each prediction with SHAP.
 
-## What I'm working with
+Currently exploring: [Semantic CI Intelligence](https://github.com/AthulRm18/semantic-ci-intelligence), which uses code changes and pipeline metadata to predict CI failures.
 
-Python · TypeScript · LightGBM · FastAPI · React · PostgreSQL · Redis · Docker
+## About Me
 
-I enjoy the full path from data and evaluation to a tool someone can actually use. If you're working on applied ML, search, or useful civic tech, [say hello](mailto:athulrm518@gmail.com).
+<div align="center">
+
+### Engineering Stack
+
+#### AI / ML
+
+![Python](https://img.shields.io/badge/PYTHON-2B2D42?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LIGHTGBM-2E8B57?style=for-the-badge&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBOOST-1F6FEB?style=for-the-badge&logoColor=white)
+
+#### LLMs, Retrieval & Agents
+
+![OpenAI](https://img.shields.io/badge/OPENAI-6B4EFF?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LANGGRAPH-3D7EAA?style=for-the-badge&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+#### Full-Stack & Systems
+
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### Cloud & Data
+
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
+
+## GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AthulRm18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthulRm18&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
