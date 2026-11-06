@@ -1,10 +1,17 @@
-<img width="480" height="268" alt="gif" src="https://github.com/user-attachments/assets/38b9a2bc-aa4b-4bca-b7a5-d27970862771" />
-# About Me
-
-Hi, I'm **Athul** 👋
-
-I build projects at the intersection of **machine learning, search, and LLM-powered applications**.
-I enjoy experimenting with retrieval, reranking, agentic workflows, and full-stack tools that turn AI ideas into usable products.
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h2>Hi, I'm Athul 👋</h2>
+      <p>I'm currently working on <strong>full-stack projects</strong> and exploring <strong>LLMs and OS development</strong>.</p>
+      <p>🌱 Actively learning <strong>Data Structures &amp; Algorithms, app development, and LLM building</strong>.</p>
+      <p>🌍 Based in <strong>Mumbai, India</strong></p>
+      <p>📬 Reach me at <a href="mailto:anexus5919@gmail.com">anexus5919@gmail.com</a></p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/38b9a2bc-aa4b-4bca-b7a5-d27970862771" alt="Animated scene of a developer coding at a computer" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## What I Work With
 
@@ -42,7 +49,6 @@ I enjoy experimenting with retrieval, reranking, agentic workflows, and full-sta
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 
 ## GitHub Stats
 <!-- add stats cards here -->
