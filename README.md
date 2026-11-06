@@ -4,8 +4,8 @@
       <h2>Hi, I'm Athul 👋</h2>
       <p>I build <strong>agentic AI/ML systems</strong>, with a focus on <strong>LLMs, LLM evaluation, retrieval, and reranking</strong>.</p>
       <p>🤖 I work on <strong>AI agents, LLM evaluation, retrieval quality, and reranking</strong>.</p>
-      <p>🌍 Based in <strong>Mumbai, India</strong></p>
-      <p>📬 Reach me at <a href="mailto:anexus5919@gmail.com">anexus5919@gmail.com</a></p>
+      <p>🌍 Based in <strong>Bengaluru, India</strong></p>
+      <p>📬 Reach me at <a href="mailto:athulrm518@gmail.com">athulrm518@gmail.com</a></p>
     </td>
     <td width="42%" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/38b9a2bc-aa4b-4bca-b7a5-d27970862771" alt="Animated scene of a developer coding at a computer" width="100%" />
