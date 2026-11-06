@@ -2,8 +2,8 @@
   <tr>
     <td width="58%" valign="top">
       <h2>Hi, I'm Athul 👋</h2>
-      <p>I'm currently working on <strong>full-stack projects</strong> and exploring <strong>LLMs and OS development</strong>.</p>
-      <p>🌱 Actively learning <strong>Data Structures &amp; Algorithms, app development, and LLM building</strong>.</p>
+      <p>I build <strong>agentic AI/ML systems</strong>, with a focus on <strong>LLMs, LLM evaluation, retrieval, and reranking</strong>.</p>
+      <p>🤖 I work on <strong>AI agents, LLM evaluation, retrieval quality, and reranking</strong>.</p>
       <p>🌍 Based in <strong>Mumbai, India</strong></p>
       <p>📬 Reach me at <a href="mailto:anexus5919@gmail.com">anexus5919@gmail.com</a></p>
     </td>
@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-## What I Work With
+## Areas of Focus &amp; Toolkit
 
 ### Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,6 +29,8 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### LLMs, Retrieval & Agents
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6B4EFF?style=for-the-badge&logoColor=white)
+![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-2563EB?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0F62FE?style=for-the-badge&logo=graphql&logoColor=white)
