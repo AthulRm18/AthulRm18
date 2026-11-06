@@ -2,8 +2,8 @@
   <tr>
     <td width="58%" valign="top">
       <h2>Hi, I'm Athul 👋</h2>
-      <p>I build ML systems that turn messy real-world data into something people can act on. Lately that's been search ranking, pollution hotspots, and machine failure prediction, usually all the way from the model to a working interface.</p>
-      <p>I'm most interested in retrieval and ranking, evaluating LLM systems properly, and agents you can actually measure.</p>
+      <p>Learning ML, LLMs and agents, and obsessing over one question: <strong>how do you know an AI system is actually any good?</strong></p>
+      <p>Right now: <strong>agentic AI</strong> and <strong>LLM evals</strong>.</p>
       <p>🌍 Bengaluru, India<br />📬 <a href="mailto:athulrm518@gmail.com">athulrm518@gmail.com</a></p>
     </td>
     <td width="42%" align="center" valign="middle">
@@ -20,13 +20,11 @@
 
 Currently exploring: [Semantic CI Intelligence](https://github.com/AthulRm18/semantic-ci-intelligence), which uses code changes and pipeline metadata to predict CI failures.
 
-## About Me
-
 <div align="center">
 
-### Engineering Stack
+## Engineering Stack
 
-#### AI / ML
+### AI / ML
 
 ![Python](https://img.shields.io/badge/PYTHON-2B2D42?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -36,7 +34,7 @@ Currently exploring: [Semantic CI Intelligence](https://github.com/AthulRm18/sem
 ![LightGBM](https://img.shields.io/badge/LIGHTGBM-2E8B57?style=for-the-badge&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBOOST-1F6FEB?style=for-the-badge&logoColor=white)
 
-#### LLMs, Retrieval & Agents
+### LLMs, Retrieval & Agents
 
 ![OpenAI](https://img.shields.io/badge/OPENAI-6B4EFF?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
@@ -44,7 +42,7 @@ Currently exploring: [Semantic CI Intelligence](https://github.com/AthulRm18/sem
 ![LangGraph](https://img.shields.io/badge/LANGGRAPH-3D7EAA?style=for-the-badge&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-#### Full-Stack & Systems
+### Full-Stack & Systems
 
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -53,7 +51,7 @@ Currently exploring: [Semantic CI Intelligence](https://github.com/AthulRm18/sem
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-#### Cloud & Data
+### Cloud & Data
 
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
