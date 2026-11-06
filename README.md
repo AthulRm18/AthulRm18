@@ -1,3 +1,4 @@
+<img width="480" height="268" alt="gif" src="https://github.com/user-attachments/assets/38b9a2bc-aa4b-4bca-b7a5-d27970862771" />
 # About Me
 
 Hi, I'm **Athul** 👋
