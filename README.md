@@ -16,9 +16,7 @@
 
 - **[AirGrid](https://github.com/AthulRm18/airgrid)** · [Live demo](https://airgrid.onrender.com/): combines citizen reports, satellite data, and sensor readings to find pollution hotspots that official monitors miss, and forecasts where a plume will travel.
 - **[Search Re-Ranker](https://github.com/AthulRm18/search-reranker)** · [Live demo](https://search-reranker.vercel.app/): a LightGBM LambdaMART ranker that balances relevance, review trust, and sponsored-result penalties (NDCG@10 of 0.9114 on Amazon ESCI).
-- **[Ferron / Predictive Maintenance](https://github.com/AthulRm18/Predictive-Maintenance)** · [Live dashboard](https://ferron.vercel.app/): streams machine telemetry, predicts remaining useful life and faults, and explains each prediction with SHAP.
-
-Currently exploring: [Semantic CI Intelligence](https://github.com/AthulRm18/semantic-ci-intelligence), which uses code changes and pipeline metadata to predict CI failures.
+- **[Harmonix](https://github.com/AthulRm18/Harmonix)**: a predictive engine diagnostics platform that finds faults in combustion engines from vibration, acoustic, ignition and OBD-II sensor data.
 
 <div align="center">
 
