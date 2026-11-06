@@ -1,26 +1,25 @@
-# Hi, I'm Athul
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h2>Hey, I'm Athul 👋</h2>
+      <p>I like building ML systems that have to make a useful decision—not just produce a prediction. Lately, that's meant experimenting with pollution alerts, product search, and engine diagnostics.</p>
+      <p>I'm especially interested in ranking, retrieval, and figuring out how to evaluate whether a model actually helped.</p>
+      <p>🌍 Bengaluru, India<br />📬 <a href="mailto:athulrm518@gmail.com">athulrm518@gmail.com</a></p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/38b9a2bc-aa4b-4bca-b7a5-d27970862771" alt="Animated scene of a developer coding at a computer" width="100%" />
+    </td>
+  </tr>
+</table>
 
-I build applied ML systems that turn messy, real-world data into decisions people can use. My recent work spans search ranking, environmental intelligence, and predictive maintenance—usually across the model, API, and interface, not just the notebook.
+## Things I've been building
 
-I'm especially interested in retrieval and ranking, reliable evaluation for LLM systems, and agent workflows that can be measured and trusted.
+- **[AirGrid](https://github.com/AthulRm18/airgrid)** — A community air-pollution monitor that combines citizen reports, satellite observations, and sensor readings to find hotspots the official network can miss. [Try the demo](https://airgrid.onrender.com/).
+- **[Search Re-ranker](https://github.com/AthulRm18/search-reranker)** — A search experiment that balances product relevance with review-trust signals and sponsored-result penalties. It includes a ranking model, API, dashboard, and browser extension. [See the demo](https://search-reranker.vercel.app/).
+- **[Harmonix](https://github.com/AthulRm18/Harmonix)** — Exploring engine diagnostics by combining vibration, audio, ignition, and OBD-II data.
 
-**Bengaluru, India** · [Email](mailto:athulrm518@gmail.com)
+## What I'm working with
 
-## Selected work
+Python · TypeScript · LightGBM · FastAPI · React · PostgreSQL · Redis · Docker
 
-- **[AirGrid](https://github.com/AthulRm18/airgrid)** · [Live demo](https://airgrid.onrender.com/) — An environmental intelligence prototype that combines community reports, satellite observations, and sensor data to identify local pollution hotspots and forecast where a plume may travel.
-- **[Search Re-Ranker](https://github.com/AthulRm18/search-reranker)** · [Live demo](https://search-reranker.vercel.app/) — A LightGBM LambdaMART ranker that balances query relevance with product trust signals and sponsored-result penalties. Evaluated on the Amazon ESCI relevance task (NDCG@10: 0.9114).
-- **[Ferron / Predictive Maintenance](https://github.com/AthulRm18/Predictive-Maintenance)** · [Live dashboard](https://ferron.vercel.app/) — A streaming machine-monitoring system for remaining-useful-life and fault predictions, with SHAP explanations and a human review workflow.
-
-## Currently exploring
-
-**[Semantic CI Intelligence](https://github.com/AthulRm18/semantic-ci-intelligence)** — Early-stage work on using code changes and workflow metadata to predict CI job failures and help teams get feedback sooner.
-
-## Tools I use
-
-**Languages:** Python, TypeScript, SQL  
-**ML:** scikit-learn, PyTorch, LightGBM, XGBoost  
-**Building:** FastAPI, React, Redis, PostgreSQL  
-**LLM applications:** LangGraph, LangChain, retrieval and evaluation
-
-If you're working on applied ML, search, or useful AI products, [get in touch](mailto:athulrm518@gmail.com).
+I enjoy the full path from data and evaluation to a tool someone can actually use. If you're working on applied ML, search, or useful civic tech, [say hello](mailto:athulrm518@gmail.com).
